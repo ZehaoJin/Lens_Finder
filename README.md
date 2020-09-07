@@ -1,5 +1,5 @@
 # Lens_Finder
-## Go to repo Lens_Finder_1
+## Thie repo is outdated. Go to [repo Lens_Finder-1](https://github.com/ZehaoJin/Lens_Finder-1)
 
 
 
